@@ -4,7 +4,7 @@ A simple voice chat in Go
 ## Dependencies
  - portaudio
    - `brew install portaudio`
-   - `apt-get install portaudio`
+   - `apt install portaudio19-dev`
 
 ## Installing the cli
 
